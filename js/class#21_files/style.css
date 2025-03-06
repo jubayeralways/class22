@@ -1,0 +1,26 @@
+/* css  */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* css  */
+#portfollio {
+    padding: 100px 0;
+    background-color: blanchedalmond;
+}
+
+#Veno-Box {
+    padding: 30px 0;
+    background: plum;
+
+}
+
+h1 {
+    padding-bottom: 30px;
+}
+
+#filter {
+    padding: 100px 0;
+    background: beige;
+}
